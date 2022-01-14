@@ -1,5 +1,6 @@
 # LHL-MidTerm-Project-Predicting-Flight-Delay-
 This repository contains the Lighthouse Labs Data-Science midterm project for Mobola Abubakre, Salma Al-Shehabi and Jade Gibson. 
+
 Content :
 * Exploratory analysis questions can be found in the two notebooks.
 * Modeling with training and testing sets
